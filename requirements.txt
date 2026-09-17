@@ -1,0 +1,9 @@
+requests
+astral
+pydantic
+pyyaml
+env_canada==0.5.2
+reverse_geocoder
+numpy
+
+pytz
