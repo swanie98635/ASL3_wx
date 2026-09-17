@@ -50,7 +50,7 @@ Practically, this means enabling the Environment Canada provider or the [Alert R
 
 ## Make your Own Legal Decision Before Using
 
-This isn't legal advice, and I'm not an attorney — you're responsible for how you configure and operate your own station under your own license. If you're planning to run frequent scheduled weather reports (rather than alert-driven weather announcements only), it's worth reading the full text of 47 CFR §97.111 and §97.113 yourself (US) or the current Radiocommunication Regulations (Canada) and, if you have any doubt, checking with your section's ARRL Volunteer Counsel, Radio Amateurs of Canada (RAC), or your club's technical resources before deploying this on a live repeater.
+This isn't legal advice, and I'm not an attorney — you're responsible for how you configure and operate your own station under your own license. If you're planning to run frequent scheduled weather reports (rather than alert-driven weather announcements only), it's worth reading the full text of 47 CFR §97.111 and §97.113 yourself (US) or the current Radiocommunication Regulations (Canada) and, if you have any doubt, checking with your section's ARRL Volunteer Counsel, Radio Amateurs of Canada (RAC), or your club's technical resources before deploying this on a live repeater or node that transmits a radio signal.
 
 ## Installation
 
